@@ -1,0 +1,13 @@
+# NetBeans carpetas temporales
+build/
+nbproject/private/
+dist/
+
+# Archivos de sistema
+nbpython_debug/
+nbdist/
+.DS_Store
+Thumbs.db
+
+# Archivos de usuario específicos
+local.properties
